@@ -3,6 +3,4 @@ extraction:
     index:
       solution: "src/TimeZoneConverter/TimeZoneConverter.csproj"
       dotnet:
-        arguments: "-f netstandard2.0"
-        i am changing
-        
+        arguments: "-f netstandard2.0"             
